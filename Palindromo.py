@@ -14,6 +14,6 @@ def CheckIfPalindrome(cadena):
 
     print("Es palindromo")
 
-string = input("Introduzca una cadena: ")
-CheckIfPalindrome(string)
+
+CheckIfPalindrome(input("Introduzca una cadena: "))
 
